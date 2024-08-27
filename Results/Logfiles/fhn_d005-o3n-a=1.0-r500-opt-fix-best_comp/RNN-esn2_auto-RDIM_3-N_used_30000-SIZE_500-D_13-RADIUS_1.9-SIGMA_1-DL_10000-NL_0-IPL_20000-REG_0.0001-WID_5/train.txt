@@ -1,0 +1,1 @@
+model_name:RNN-esn2_auto-RDIM_3-N_used_30000-SIZE_500-D_13-RADIUS_1.9-SIGMA_1-DL_10000-NL_0-IPL_20000-REG_0.0001-WID_5:memory:220.28:total_training_time:8.14:n_model_parameters:9006:n_trainable_parameters:1002
