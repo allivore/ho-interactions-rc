@@ -1,7 +1,6 @@
-# Higher-order interactions improve the prediction accuracy of reservoir computer
+# Clique-based Topology Enhances Reservoir Computing Performance
 
-This repository contains the code used for paper "Higher-order interactions
-improve the prediction accuracy of reservoir computer".
+This repository contains the code used for paper "Clique-based Topology Enhances Reservoir Computing Performance".
 
 ## Project structure
 
